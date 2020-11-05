@@ -1,0 +1,6 @@
+név = input('Mi a vezetékneved?')
+név = input('Mi a keresztneved?')
+Név = input('A nevem')
+Név = input('Mikor születtél?')
+Név = input ('Mi a csillagjegyed?')
+Név = input ('A születési évem és a csillagjegyem')
